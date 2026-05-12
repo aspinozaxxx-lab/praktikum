@@ -1,1 +1,9 @@
 .venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Downloaded datasets and generated binary model/data artifacts.
+data/MNIST/
+data/Quick/
+*.npy
+*.npz
